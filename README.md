@@ -5,5 +5,9 @@
 3.配置开发环境manager中改变manage.py 默认启动路径
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'meiduo_mall.settings.dev')
+4. 配置jinja2模板引擎
+创建templates包设置jinja2为默认模板引擎右击包Mark Derectory as Templates Folder
+补充Jinja2模板引擎环境
+
 
 
