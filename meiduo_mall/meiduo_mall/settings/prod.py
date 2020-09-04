@@ -1,3 +1,5 @@
+# 生产环境
+
 """
 Django settings for meiduo_mall project.
 
